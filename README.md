@@ -1,4 +1,4 @@
-# Login Giriş Ödevi
+# Login Giriş Patika Ödevi
 
 * UserName
 * Password
